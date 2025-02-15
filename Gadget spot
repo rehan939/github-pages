@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gadget Spot - Best Tech Deals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gadget Spot</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Find the Best Tech Deals!</h2>
+        <p>Get the latest gadgets at the best prices.</p>
+    </section>
+
+    <section id="products">
+        <h2>Featured Products</h2>
+        <div class="product">
+            <img src="product1.jpg" alt="Smartwatch">
+            <h3>Smartwatch X1</h3>
+            <p>Amazing battery life and fitness tracking.</p>
+            <a href="https://www.amazon.in/dp/your-affiliate-link" class="buy-btn">Buy Now</a>
+        </div>
+        <div class="product">
+            <img src="product2.jpg" alt="Wireless Earbuds">
+            <h3>Wireless Earbuds</h3>
+            <p>Crystal clear sound with noise cancellation.</p>
+            <a href="https://www.flipkart.com/dp/your-affiliate-link" class="buy-btn">Buy Now</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Follow Us for More Deals</h2>
+        <a href="https://www.instagram.com/gadgetspot" class="insta-btn">Follow on Instagram</a>
+    </section>
+
+    <footer>
+        <p>© 2025 Gadget Spot. All rights reserved.</p>
+    </footer>
+</body>
+</html>
